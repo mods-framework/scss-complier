@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mods\\ScssComplier\\": "src/"
+            "Mods\\Scss\\": "src/"
         }
     }
 }

@@ -1,0 +1,25 @@
+{
+    "name": "mods/scss-complier",
+    "description": "The SCSS Complier for Mods framework.",
+    "keywords": ["framework", "mods", "theme", "scss"],
+    "license": "MIT",
+    "homepage": "https://thehackerleague.com",
+    "support": {
+        "issues": "https://github.com/thehackerleague/scss-complier/issues",
+        "source": "https://github.com/thehackerleague/scss-complier"
+    },
+    "authors": [
+        {
+            "name": "Sunel Tr",
+            "email": "sunelbe@gmail.com"
+        }
+    ],
+    "require": {
+        "leafo/scssphp": "0.6.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mods\\ScssComplier\\": "src/"
+        }
+    }
+}

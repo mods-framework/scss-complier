@@ -5,6 +5,7 @@ return [
         'name' => 'Scss Complier',
         'type' => 'module',
         'providers' => [
+            \Mods\Scss\EventServiceProvider::class
         ],
         'aliases' => [
         ],

@@ -1,6 +1,6 @@
 <?php
 
-namespace  Mods\Scss\Compiler;
+namespace Mods\Scss\Compiler;
 
 use Leafo\ScssPhp\Compiler as ScssCompiler;
 use Mods\Theme\Contracts\Compiler;

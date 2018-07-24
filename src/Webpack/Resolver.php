@@ -15,6 +15,6 @@ class Resolver
 	 */
     public function handle($contents)
     {
-    	return ['theme.scss'];
+    	return ['theme.scss?nomodule'];
     }
 }
